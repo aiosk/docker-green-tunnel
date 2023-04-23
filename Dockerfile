@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:12
+FROM node:12-alpine
 # Use this instead to build image for Raspberry Pi
 # FROM balenalib/raspberry-pi-alpine-node
 
